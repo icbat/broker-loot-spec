@@ -8,7 +8,7 @@ local function initialize_cache()
         return
     end
     -- needs to be run after player has finished entering the world, else there will be nils
-    for index = 1, GetNumSpecializations() + 1, 1 do
+    for index = 1, GetNumSpecializations(), 1 do
         local id, name = GetSpecializationInfo(index)
         id_to_name_cache[id] = name
     end
