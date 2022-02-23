@@ -1,8 +1,8 @@
-## Interface: 90105
+## Interface: 90200
 ## Title: Broker: Loot Spec
 ## Notes: Loot Spec display and switching
 ## Author: @icbat
-## Version: 3
+## Version: 4
 
 ## Dependencies
 libs/LibStub.lua
