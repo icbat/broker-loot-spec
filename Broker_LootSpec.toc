@@ -2,7 +2,7 @@
 ## Title: Broker: Loot Spec
 ## Notes: Loot Spec display and switching
 ## Author: @icbat
-## Version: 7
+## Version: 8
 
 ## Dependencies
 libs/LibStub.lua
