@@ -2,8 +2,12 @@
 ## Title: Broker: Loot Spec
 ## Notes: Loot Spec display and switching
 ## Author: @icbat
-## Version: 9
 ## IconTexture: Interface/Addons/Broker_LootSpec/ick-logo
+
+### BigWigs Packager Fields
+## Version: @project-version@
+## X-Wago-ID: EGPXweG1
+## X-WoWI-ID: 26211
 
 ## Dependencies
 libs/LibStub.lua

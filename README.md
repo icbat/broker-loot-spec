@@ -3,10 +3,7 @@ Broker: Loot Spec
 
 A WoW Data Broker addon for showing your current loot spec and letting you switch it.
 
-Get it on [WoW Interface](https://www.wowinterface.com/downloads/info26211-BrokerLootSpec.html), or use the [Cursebreaker tool](https://github.com/AcidWeb/CurseBreaker) (recommended)
-
-## Changelog
-- Initial Release
+Get it on [WoW Interface](https://www.wowinterface.com/downloads/info26211-BrokerLootSpec.html), [Wago](https://addons.wago.io/addons/broker-loot-spec), or use the [Cursebreaker tool](https://github.com/AcidWeb/CurseBreaker) (recommended)
 
 ## Contributing
 
@@ -15,6 +12,6 @@ Get it on [WoW Interface](https://www.wowinterface.com/downloads/info26211-Broke
 1. Make your changes in the fork
 1. Submit a Pull Request back for review to this repo
 
-### Localization
+### Releasing
 
-If you'd like to help localize the text here, simply follow the above steps and change the Localization.lua file to add your translations. Please submit an [issue on GitHub](https://github.com/icbat/broker-loot-spec/issues) if you need any assistance with this workflow.
+Release new versions by pushing a tag to the main branch of the form `v12345`. The GitHub action should take care of the rest. 
